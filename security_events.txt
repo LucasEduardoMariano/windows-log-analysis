@@ -1,0 +1,16 @@
+2026-09-18 08:41:12 | Event ID: 4625 | User: administrator | Logon Type: 10 | Source IP: 192.168.1.45 | Status: Failed
+2026-09-18 08:41:18 | Event ID: 4625 | User: administrator | Logon Type: 10 | Source IP: 192.168.1.45 | Status: Failed
+2026-09-18 08:41:24 | Event ID: 4625 | User: administrator | Logon Type: 10 | Source IP: 192.168.1.45 | Status: Failed
+2026-09-18 08:41:31 | Event ID: 4625 | User: administrator | Logon Type: 10 | Source IP: 192.168.1.45 | Status: Failed
+2026-09-18 08:41:38 | Event ID: 4625 | User: administrator | Logon Type: 10 | Source IP: 192.168.1.45 | Status: Failed
+2026-09-18 08:41:45 | Event ID: 4624 | User: administrator | Logon Type: 10 | Source IP: 192.168.1.45 | Status: Success
+
+2026-09-18 09:15:03 | Event ID: 4624 | User: lucas | Logon Type: 2 | Source IP: 192.168.1.20 | Status: Success
+2026-09-18 09:22:17 | Event ID: 4624 | User: maria | Logon Type: 2 | Source IP: 192.168.1.22 | Status: Success
+
+2026-09-18 10:03:11 | Event ID: 4625 | User: testuser | Logon Type: 3 | Source IP: 192.168.1.50 | Status: Failed
+2026-09-18 10:04:02 | Event ID: 4625 | User: testuser | Logon Type: 3 | Source IP: 192.168.1.51 | Status: Failed
+
+2026-09-18 08:42:17 | Event ID: 4688 | User: administrator | Process: powershell.exe | Parent Process: explorer.exe | Source IP: 192.168.1.45
+2026-09-18 08:42:31 | Event ID: 4688 | User: administrator | Process: cmd.exe | Parent Process: powershell.exe | Source IP: 192.168.1.45
+2026-09-18 08:42:47 | Event ID: 4688 | User: administrator | Process: net.exe | Parent Process: cmd.exe | Source IP: 192.168.1.45
